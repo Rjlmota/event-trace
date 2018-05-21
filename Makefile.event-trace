@@ -1,0 +1,4 @@
+event-trace_src = event-trace.c
+
+APPS+= er-coap-13-engine
+APPS+= broadcast-event
